@@ -4,5 +4,3 @@ dist/
 _build/
 MyProject.kpf
 .tox/
-
-.idea
